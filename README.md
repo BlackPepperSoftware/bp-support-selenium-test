@@ -1,2 +1,4 @@
-# bp-support-selenium-test
-Support for testing with Selenium.
+Black Pepper Support Selenium Test
+==================================
+
+Support for testing with [Selenium](http://docs.seleniumhq.org/).
