@@ -16,10 +16,10 @@
 	<name>Black Pepper Support Selenium Test</name>
 	
 	<scm>
-		<connection>scm:git:git@codebasehq.com:blackpepper/black-pepper-support/bp-support-selenium-test.git</connection>
-		<developerConnection>scm:git:git@codebasehq.com:blackpepper/black-pepper-support/bp-support-selenium-test.git</developerConnection>
+		<connection>scm:git:git@github.com:BlackPepperSoftware/bp-support-selenium-test.git</connection>
+		<developerConnection>scm:git:git@github.com:BlackPepperSoftware/bp-support-selenium-test.git</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://blackpepper.codebasehq.com/projects/black-pepper-support/repositories/bp-support-selenium-test</url>
+		<url>https://github.com/BlackPepperSoftware/bp-support-selenium-test</url>
 	</scm>
 
 	<dependencies>
